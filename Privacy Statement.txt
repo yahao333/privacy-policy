@@ -1,0 +1,8 @@
+We value your privacy
+
+We attach great importance to your privacy. This privacy statement explains the personal data we collect from you and how we use that data.
+
+Software collects that information
+1. positioning and motion data if you do not want this application to obtain your location information, positioning function can be turned off in the settings of the software.
+
+Software data collection stored in the local software, software delete collected data are also deleted.
