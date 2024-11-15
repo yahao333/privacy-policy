@@ -1,28 +1,55 @@
 【隐私声明】
+[Privacy Statement]
 
 我们十分重视您的隐私。本隐私声明解释了我们的应用如何处理您的数据。
+We take your privacy very seriously. This privacy statement explains how our application processes your data.
 
 【数据收集和使用】
+[Data Collection and Use]
+
 本应用是一款纯离线的补光灯工具应用，不会收集、存储或传输任何用户个人数据。
+This app is a purely offline filler tool app and does not collect, store or transmit any personal user data.
 
 【权限说明】
+[Description of permissions]
+
 本应用需要以下权限：
 1. 屏幕亮度控制权限：用于调节屏幕亮度实现补光效果
 2. 保持屏幕常亮权限：防止在使用补光功能时屏幕自动关闭
+This app requires the following permissions:
+1. Screen brightness control permission: used to adjust the screen brightness to achieve the fill light effect.
+2. Keep the screen always lit permission: to prevent the screen from automatically turning off when using the fill light function.
 
 【数据存储】
+Data storage
+
 - 应用的所有设置（如亮度值、色温值、当前模式等）仅保存在设备本地
 - 卸载应用时，所有设置数据将被完全删除
+- All settings of the app (such as brightness value, color temperature value, current mode, etc.) are only saved locally on the device.
+- When uninstalling the app, all settings data will be completely deleted.
 
 【第三方共享】
+[Third Party Sharing]
+
 本应用不会与任何第三方共享您的信息。
+This app does not share your information with any third party.
 
 【隐私声明更新】
+[Privacy Statement Updates]
+
 我们可能会不时更新本隐私声明。更新后的版本将在应用更新时提供。
+We may update this privacy statement from time to time. The updated version will be available when the app is updated.
+
 
 【联系我们】
+[Contact Us]
 如果您对本隐私声明有任何疑问，请通过以下方式联系我们：
 - 开发者：yanghao
 - 邮箱：[fexeak@outlook.com]
 
-最后更新日期：2024年03月
+If you have any questions about this privacy statement, please contact us at the following:
+- Developer: yanghao
+- Email: [fexeak@outlook.com]
+
+最后更新日期：2024年10月
+Last update date: October 2024
